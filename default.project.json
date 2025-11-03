@@ -1,0 +1,24 @@
+{
+  "name": "dev",
+  "tree": {
+    "$className": "DataModel",
+
+    "ReplicatedStorage": {
+      "jecs-fluid": {
+        "$className": "Folder",
+        "fluid": {
+          "$path": "Packages/_index/ffrostfall_fluid@0.6.4"
+        },
+        "jecs-utils": {
+          "$path": "Packages/_index/pepeeltoro41_jecs-utils@1.1.1"
+        },
+        "jecs": {
+          "$path": "Packages/_index/ukendio_jecs@0.9.0"
+        },
+        "jecs-fluid": {
+          "$path": "src/"
+        }
+      }
+    }
+  }
+}
