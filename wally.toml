@@ -1,9 +1,10 @@
 [package]
 name = "jonhdope/jecs-fluid"
-version = "0.1.0"
+version = "0.1.1"
 registry = "https://github.com/UpliftGames/wally-index"
 realm = "shared"
 exclude = ["**"]
+description = "slightly edited version of jecs-vide to work with fluid"
 include = [
     "default.project.json",
     "dist",
