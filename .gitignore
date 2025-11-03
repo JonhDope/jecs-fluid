@@ -1,4 +1,4 @@
 node_modules
 sourcemap.json
-Packages
+**/Packages
 wally.lock
