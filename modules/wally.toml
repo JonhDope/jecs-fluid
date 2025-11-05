@@ -1,0 +1,10 @@
+[package]
+name = "jonhdope/jecs-fluid-packages"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dev-dependencies]
+fluid = "ffrostfall/fluid@0.6.4"
+jecs = "ukendio/jecs@0.9.0"
+jecs-utils = "pepeeltoro41/jecs-utils@1.1.1"
